@@ -11,7 +11,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Datos reales de la Serie A 2023–24
+# Datos de la Serie A 2023–24
 data = {
     'Equipo': ['Inter', 'Milan', 'Juventus', 'Atalanta', 'Bologna',
                'Roma', 'Lazio', 'Napoli', 'Fiorentina', 'Torino',
